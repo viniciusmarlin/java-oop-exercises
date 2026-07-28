@@ -1,6 +1,24 @@
+# Arquivos compilados
 *.class
+
+# Diretórios de build
 bin/
 out/
+target/
+build/
+
+# Dependências locais
+lib/
+libs/
+
+# Configurações das IDEs
 .vscode/
 .idea/
+
+# Arquivos do IntelliJ
 *.iml
+
+# Eclipse
+.settings/
+.project
+.classpath
