@@ -56,7 +56,8 @@ public class Main {
     }
 
     private static void preencherConta(Scanner scanner, ContaBancaria conta) {
-        conta.setNomeCliente(scanner.next());
+        conta.setNomeCliente(scanner.nextLine());
         conta.setNumConta(scanner.nextInt());
+        scanner.nextLine();
     }
 }
