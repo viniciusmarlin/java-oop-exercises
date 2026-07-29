@@ -19,7 +19,11 @@ O objetivo deste projeto é consolidar conceitos fundamentais da orientação a 
 │   ├── ContaPoupanca.java
 │   └── Main.java
 │
-├── exercicio_02/
+├── pessoa/
+│   ├── Aluno.java
+│   ├── Main.java
+│   └── Pessoa.java
+│
 ├── exercicio_03/
 └── ...
 ```
